@@ -1,5 +1,5 @@
 
-## Technical Qualifications / Skills
+<h1 style="font-size: 5rem" style="color: #159957">Technical Qualifications / Skills</h1>
 
 **Programming Languages:**
 
