@@ -1,5 +1,3 @@
-115 Riverton Ave • Winnipeg, MB, R3G 0L3
-
 ## Technical Qualifications / Skills
 
 **Programming Languages:**
