@@ -1,8 +1,4 @@
-# Kevin Davis
-
 115 Riverton Ave • Winnipeg, MB, R3G 0L3
-
-C: 204-390-1423 • E: zorksox@gmail.com
 
 ## Technical Qualifications / Skills
 
@@ -31,7 +27,7 @@ C: 204-390-1423 • E: zorksox@gmail.com
 ## Work Experience
 
 | Assistant Manager | 2016 – Present |
-| ================= | ============== |
+| ------------------------------------------------------ | -------------- |
 
 **Assistant Manager**<p align=right>2016 – Present</p>
 Timothy’s Country Butcher Shop, Dugald, MB
