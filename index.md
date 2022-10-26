@@ -23,12 +23,9 @@
  *   Experienced in procedural texture creation with Neo Texture Edit, Genetica, and Unity's Shader Graph.
  *   Landscape generation with World Machine and Terragen Classic.
 
-## Work Experience
+<h1 style="font-size: 50px" style="color: #159957">Work Experience</h1>
 
-| Assistant Manager | 2016 – Present |
-| ------------------------------------------------------ | -------------- |
-
-**Assistant Manager**<p align=right>2016 – Present</p>
+**Assistant Manager                   _2016 – Present**
 Timothy’s Country Butcher Shop, Dugald, MB
 
 *   Manage employees and distribute tasks
@@ -44,7 +41,7 @@ Dolman and Associates, Winnipeg, MB
 *   Run network cable through walls and ceilings 
 *   Reimaged computers
 
-## Education
+<h1 style="font-size: 50px" style="color: #159957">Education</h1>
 
 **Computer Science, University of Manitoba									_2012 - 2022_**		
 
@@ -61,13 +58,13 @@ Dolman and Associates, Winnipeg, MB
 *   Trained in Maya
 *   Modelling, Animation, Motion Graphic, Visual Effects
 
-## Interests and Activities
+<h1 style="font-size: 50px" style="color: #159957">Interests and Activities</h1>
 
 *   I spend the vast majority of my free time in active game development.  I love learning new skills and designing around problems.  I have a particular interest in procedural systems and texture design.  I love to create different game systems and design how they interact.  I am currently working on a major project that will take me several years to complete.
 *   I love cooking and preparing gourmet meals.  I treat cooking as an optimization problem, creating the best taste with the least work.
 *   I am an avid player of video games and board games.  Open-world, systemic games are among my favorite.
 
-## Work References
+<h1 style="font-size: 50px" style="color: #159957">Work References</h1>
 
 **Tim Durksen**
 
@@ -81,7 +78,7 @@ Dolman and Associates, Winnipeg, MB
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-890-5862
 
-## Personal Reference
+<h1 style="font-size: 50px" style="color: #159957">Personal References</h1>
 
 **Kenny Warkentin**
 
