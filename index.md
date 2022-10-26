@@ -25,7 +25,7 @@
 
 <h1 style="font-size: 50px" style="color: #159957">Work Experience</h1>
 
-**Assistant Manager                   _2016 – Present**
+**Assistant Manager                   _2016 – Present_**
 
 Timothy’s Country Butcher Shop, Dugald, MB
 
