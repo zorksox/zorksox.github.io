@@ -6,16 +6,13 @@
  *   Practical Experience: .NET, C#, Java, JavaScript, Python
  *   Course Knowledge: C, Python, Java, JavaScript
 
-**Game Engines and Software:**
+**Software:**
 
+ *   Experienced in writing software for Windows and Android platforms
  *   8+ years experiences with Unity3D
  *   Slick2D (2D Java Game Libraries)
  *   Unreal Engine
  *   Android Studio
-
-**Operating Systems:**
-
- *   Experienced in writing software for Windows and Android platforms
 
 **Procedural Asset Creation:**
 
