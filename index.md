@@ -78,8 +78,8 @@ Dolman and Associates, Winnipeg, MB
 
 <h1 style="font-size: 50px" style="color: #159957">Personal References</h1>
 
-**Kenny Warkentin**
+**Vic Peters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pastor, Trinity Baptist Church
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrum Master, GS1 Canada
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-898-7622
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-979-2048
