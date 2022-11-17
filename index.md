@@ -10,9 +10,9 @@
 
  *   Experienced in writing software for Windows and Android platforms
  *   8+ years experiences with Unity3D
- *   Slick2D (2D Java Game Libraries)
  *   Unreal Engine
  *   Android Studio
+ *   Cuda
 
 **Procedural Asset Creation:**
 
