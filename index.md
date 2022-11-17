@@ -22,7 +22,7 @@
 
 <h1 style="font-size: 50px" style="color: #159957">Work Experience</h1>
 
-**Assistant Manager                   _2016 – Present_**
+**Assistant Manager&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2016 – Present_**
 
 Timothy’s Country Butcher Shop, Dugald, MB
 
@@ -31,7 +31,7 @@ Timothy’s Country Butcher Shop, Dugald, MB
 *   Process cattle and wild game
 *   Create computer software to increase organization and efficiency
 
-**Network Technician 										_2014 – 2015_**
+**Network Technician&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2014 – 2015_**
 
 Dolman and Associates, Winnipeg, MB
 
@@ -41,17 +41,17 @@ Dolman and Associates, Winnipeg, MB
 
 <h1 style="font-size: 50px" style="color: #159957">Education</h1>
 
-**Computer Science, University of Manitoba									_2012 - 2022_**		
+**Computer Science, University of Manitoba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2012 - 2022_**		
 
 *   Majors Degree - Finishing date: December 2022
 
-**Electric Network Technician, Red River College						_2010 – 2011_**		
+**Electric Network Technician, Red River College&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2010 – 2011_**		
 
 *   Designing and troubleshooting computer networks
 *   Programming routers and switches
 *   Soldering and cable-making
 
-**3D Training Institute										_2009_**
+**3D Training Institute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2009_**
 
 *   Trained in Maya
 *   Modelling, Animation, Motion Graphic, Visual Effects
@@ -66,20 +66,17 @@ Dolman and Associates, Winnipeg, MB
 
 **Tim Durksen**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Owner/Manager, Timothy’s Country Butcher Shop
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Owner/Manager, Timothy’s Country Butcher Shop<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-803-9500
 
 **Peter Dolman**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Owner/Operator, Dolman and Associates
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Owner/Operator, Dolman and Associates<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-890-5862
 
 <h1 style="font-size: 50px" style="color: #159957">Personal References</h1>
 
 **Vic Peters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrum Master, GS1 Canada
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrum Master, GS1 Canada<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-979-2048
