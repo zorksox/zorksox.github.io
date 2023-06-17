@@ -25,17 +25,18 @@
 <div style="text-align: right;">
     <span style="float: left; font-weight: bold;">Unity Developer</span>
     <span style="font-style: italic;">2023</span>
-</div>Project Whitecard, Winnipeg, MBs
+    Project Whitecard, Winnipeg, MBs
+</div>
 
 *   Write and modify C# scripts
 *   Create editor tools to improve workflow
 *   3D modelling and UV mapping with Blender
 *   Design and implement gameplay features
 
-<p style="text-align: right;">
+<div style="text-align: right;">
     <span style="float: left; font-weight: bold;">Assistant Manager</span>
     <span style="font-style: italic;">2016 - 2022</span>
-</p>
+</div>
 Timothy’s Country Butcher Shop, Dugald, MB
 
 *   Manage employees and distribute tasks
