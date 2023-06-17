@@ -24,8 +24,8 @@
 
 <div style="text-align: right;">
     <span style="float: left; font-weight: bold;">Unity Developer</span>
-    <span style="font-style: italic;">2023</span>
-    Project Whitecard, Winnipeg, MBs
+    <span style="font-style: italic;">2023<br></span>
+    Project Whitecard, Winnipeg, MB
 </div>
 
 *   Write and modify C# scripts
