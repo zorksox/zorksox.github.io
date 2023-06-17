@@ -27,8 +27,7 @@
     <span style="font-style: italic;">2023<br></span>
     <span style="float: left;">Project Whitecard, Winnipeg, MB</span>
 </div>
-<p>​</p>
-*   Write and modify C# scriptsssss
+*   Write and modify C# scripts
 *   Create editor tools to improve workflow
 *   3D modelling and UV mapping with Blender
 *   Design and implement gameplay features
