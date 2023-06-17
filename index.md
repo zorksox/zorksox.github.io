@@ -33,10 +33,10 @@ Project Whitecard, Winnipeg, MB
 *   3D modelling and UV mapping with Blender
 *   Design and implement gameplay features
 
-<div style="text-align: right;">
+<p style="text-align: right;">
     <span style="float: left; font-weight: bold;">Assistant Manager</span>
-    <span style="font-style: italic;">2016-2022</span>
-</div>
+    <span style="font-style: italic;">2016 - 2022</span>
+</p>
 Timothy’s Country Butcher Shop, Dugald, MB
 
 *   Manage employees and distribute tasks
@@ -46,7 +46,7 @@ Timothy’s Country Butcher Shop, Dugald, MB
 
 <div style="text-align: right;">
     <span style="float: left; font-weight: bold;">Network Technician</span>
-    <span style="font-style: italic;">2014-2015</span>
+    <span style="font-style: italic;">2014 - 2015</span>
 </div>
 Dolman and Associates, Winnipeg, MB
 
@@ -56,17 +56,26 @@ Dolman and Associates, Winnipeg, MB
 
 <h1 style="font-size: 50px" style="color: #159957">Education</h1>
 
-**Computer Science, University of Manitoba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2012 - 2022_**		
+<div style="text-align: right;">
+    <span style="float: left; font-weight: bold;">Computer Science, University of Manitoba</span>
+    <span style="font-style: italic;">2012 - 2022</span>
+</div>
 
 *   Majors Degree - Finishing date: December 2022
 
-**Electric Network Technician, Red River College&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2010 – 2011_**		
+<div style="text-align: right;">
+    <span style="float: left; font-weight: bold;">Electric Network Technician, Red River College</span>
+    <span style="font-style: italic;">2010 – 2011</span>
+</div>	
 
 *   Designing and troubleshooting computer networks
 *   Programming routers and switches
 *   Soldering and cable-making
 
-**3D Training Institute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2009_**
+<div style="text-align: right;">
+    <span style="float: left; font-weight: bold;">3D Training Institute</span>
+    <span style="font-style: italic;">2009</span>
+</div>	
 
 *   Trained in Maya
 *   Modelling, Animation, Motion Graphic, Visual Effects
