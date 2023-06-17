@@ -25,10 +25,10 @@
 <div style="text-align: right;">
     <span style="float: left; font-weight: bold;">Unity Developer</span>
     <span style="font-style: italic;">2023<br></span>
-    <span style="float: left;">Project Whitecard, Winnipeg, MB<br></span>
+    <span style="float: left;">Project Whitecard, Winnipeg, MB</span>
 </div>
-
-*   Write and modify C# scriptssss
+<br>
+*   Write and modify C# scripts
 *   Create editor tools to improve workflow
 *   3D modelling and UV mapping with Blender
 *   Design and implement gameplay features
