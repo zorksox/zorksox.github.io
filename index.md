@@ -9,16 +9,14 @@
 **Software:**
 
  *   Experienced in writing software for Windows and Android platforms
- *   8+ years experiences with Unity3D
- *   Unreal Engine
+ *   10+ years experiences with Unity3D
  *   Android Studio
  *   Cuda
 
 **Procedural Asset Creation:**
 
  *   Creator of the Unity asset “Trees Like A Breeze”, which is a tool allowing level designers to easily place vast amounts of terrain trees in a procedural manner.  Features include spherical occlusion zones, noise scaling, slope and water level awareness.
- *   Experienced in procedural texture creation with Genetica and Unity's Shader Graph.
- *   Landscape generation with World Machine.
+ *   Highly experienced with Shader Graph.
 
 <h1 style="font-size: 50px" style="color: #159957">Work Experience</h1>
 
@@ -102,5 +100,5 @@
 
 **Vic Peters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrum Master, GS1 Canada<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industry veteran
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-979-2048
