@@ -28,7 +28,12 @@
     <span style="float: left;">Project Whitecard, Winnipeg, MB</span>
 </div>
 
-*   Write and modify C# scriptssss
+
+
+
+
+
+*   Write and modify C# scripts
 *   Create editor tools to improve workflow
 *   3D modelling and UV mapping with Blender
 *   Design and implement gameplay features
