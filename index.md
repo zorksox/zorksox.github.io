@@ -36,9 +36,9 @@
 <div style="text-align: right;">
     <span style="float: left; font-weight: bold;">Assistant Manager</span>
     <span style="font-style: italic;">2016 - 2022</span>
+    <span style="float: left;">Timothy’s Country Butcher Shop, Dugald, MB</span>
 </div>
-Timothy’s Country Butcher Shop, Dugald, MB
-
+<div style="margin-bottom: 10px;">​</div>
 *   Manage employees and distribute tasks
 *   Identify areas of waste and redundancy
 *   Process cattle and wild game
