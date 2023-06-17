@@ -35,7 +35,7 @@
 
 <div style="text-align: right;">
     <span style="float: left; font-weight: bold;">Assistant Manager</span>
-    <span style="font-style: italic;">2016 - 2022</span>
+    <span style="font-style: italic;">2016 - 2022<br></span>
     <span style="float: left;">Timothy’s Country Butcher Shop, Dugald, MB</span>
 </div>
 <div style="margin-bottom: 10px;">​</div>
