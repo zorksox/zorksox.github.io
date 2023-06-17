@@ -46,10 +46,11 @@
 
 <div style="text-align: right;">
     <span style="float: left; font-weight: bold;">Network Technician</span>
-    <span style="font-style: italic;">2014 - 2015</span>
+    <span style="font-style: italic;">2014 - 2015<br></span>
+    <span style="float: left;">Dolman and Associates, Winnipeg, MB</span>
 </div>
+<div style="margin-bottom: 10px;">​</div>
 Dolman and Associates, Winnipeg, MB
-
 *   Troubleshoot network issues 
 *   Run network cable through walls and ceilings 
 *   Reimaged computers
