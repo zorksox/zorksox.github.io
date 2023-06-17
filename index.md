@@ -100,5 +100,5 @@
 
 **Vic Peters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industry veteran
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industry veteran<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-979-2048
