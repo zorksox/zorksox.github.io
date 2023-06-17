@@ -11,12 +11,15 @@
  *   Experienced in writing software for Windows and Android platforms
  *   10+ years experiences with Unity3D
  *   Android Studio
+ *   Phaser/Phaser Editor
  *   Cuda
 
 **Procedural Asset Creation:**
 
  *   Creator of the Unity asset “Trees Like A Breeze”, which is a tool allowing level designers to easily place vast amounts of terrain trees in a procedural manner.  Features include spherical occlusion zones, noise scaling, slope and water level awareness.
  *   Highly experienced with Shader Graph.
+ *   Built procedural traffic system that obeys traffic lights and four-way stops.
+ *   
 
 <h1 style="font-size: 50px" style="color: #159957">Work Experience</h1>
 
