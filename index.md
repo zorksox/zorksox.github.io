@@ -103,4 +103,5 @@
 **Vic Peters**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internet Security Manager<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Canadian Pork Council<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-979-2048
