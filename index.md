@@ -102,5 +102,5 @@
 
 **Vic Peters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software industry veteran<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internet Security Manager<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;204-979-2048
