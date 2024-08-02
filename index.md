@@ -9,7 +9,7 @@
 **Professional Experience:**
 
  *   Sole programmer of Twilight Tails, a web-based platformer written in Javascript using Phaser.
-              <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href>https://www.cbc.ca/kids/games/all/twilight-tails</a>
+              <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cbc.ca/kids/games/all/twilight-tails">cbc.ca/kids/games/all/twilight-tails</a>
  *   Sole programmer of Vaccine Quest, an indigenous project for vaccine promotion.
               <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://mkonorth.projectwhitecard.com/
  *   Highly experienced with Shader Graph.
