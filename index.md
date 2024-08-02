@@ -27,7 +27,7 @@
 
 <div style="text-align: right;">
     <span style="float: left; font-weight: bold;">Unity Developer</span>
-    <span style="font-style: italic;">2023<br></span>
+    <span style="font-style: italic;">2023 - Present<br></span>
     <span style="float: left;">Project Whitecard, Winnipeg, MB</span>
 </div>
 <div style="margin-bottom: 10px;">​</div>
