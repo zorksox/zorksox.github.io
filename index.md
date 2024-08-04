@@ -14,6 +14,7 @@
               <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mkonorth.projectwhitecard.com/">mkonorth.projectwhitecard.com</a>
  *   Participated in coding, shader design, and UI implementation on ICBC's Street Sense project.
               <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.icbc.com/road-safety/crashes-happen/street-sense">icbc.com/road-safety/crashes-happen/street-sense</a>
+ *   Built a procedural traffic system that obeys traffic lights and four-way stops.
 
 **Software:**
 
